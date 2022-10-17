@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "johndoe",
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    },
+    {
+      "id": 2,
+      "username": "janedoe",
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    },
+    {
+      "username": "happyeyal",
+      "password": "a1a43fecd56c07af4a4bea845946414b55585cc151f8d22209ee099518ece5f6",
+      "id": 3
+    }
+  ]
+}
